@@ -12,7 +12,7 @@ before:
     body: setup.md
 steps:
   - title: Configuraciones básicas
-    description: Pré-requisitos para desenvolver com o Store Framework
+    description: Requisitos previos para desarrollar con Store Framework
     event: issues.closed
     link: '{{ repoUrl }}/issues/1'
     actions:
@@ -26,7 +26,7 @@ steps:
         title: 'Store Framework 101'
         body: storeframework.md
   - title: Store Framework 101
-    description: Definições rápidas e introdutórias sobre o Store Framework.
+    description: Definiciones rápidas e introductorias sobre Store Framework
     event: issues.closed
     link: '{{ repoUrl }}/issues/2'
     actions:
@@ -40,7 +40,7 @@ steps:
         title: 'Funcionamiento del curso'
         body: course.md
   - title: Funcionamiento del curso
-    description: Explicando como interagir com o curso.
+    description: Explicando cómo interactuar con el curso
     event: issues.closed
     link: '{{ repoUrl }}/issues/3'
     actions:
@@ -54,7 +54,7 @@ steps:
         title: 'Hello, World!'
         body: helloworld.md
   - title: 'Hello, World!'
-    description: Componha e referencie seu primeiro bloco no Store Framework
+    description: Componga y haga referencia a su primer bloque en Store Framework
     event: status
     link: '{{ repoUrl }}/issues/4'
     actions:
@@ -76,7 +76,7 @@ steps:
         title: 'Info Card: el call to action de Store Framework'
         body: infocard.md
   - title: 'Info Card: el call to action de Store Framework'
-    description: Definiremos um bloco call to action na nossa home
+    description: Definiremos un bloque call to action en nuestro home 
     event: status
     link: '{{ repoUrl }}/issues/5'
     actions:
@@ -94,7 +94,7 @@ steps:
         title: 'CSS Handles y el poder de la personalización de bloques'
         body: csshandles.md
   - title: 'CSS Handles y el poder de la personalización de bloques'
-    description: Personalize o estilo dos seus blocos
+    description: Personalice el estilo de sus bloques
     event: status
     link: '{{ repoUrl }}/issues/6'
     actions:
@@ -112,7 +112,7 @@ steps:
         title: 'Flex Layout: cree layouts utilizando el poder de Flexbox'
         body: flexlayout.md
   - title: 'Flex Layout: cree layouts utilizando el poder de Flexbox'
-    description: Vamos criar layouts complexos de forma simples
+    description: Creemos layouts complejos de forma sencilla
     event: status
     link: '{{ repoUrl }}/issues/7'
     actions:
@@ -130,7 +130,7 @@ steps:
         title: Estante de productos
         body: shelf.md
   - title: 'Estante de productos'
-    description: Como exibir uma vitrine de produtos de forma intuitiva
+    description: Cómo mostrar una vitrina de productos de forma intuitiva
     event: status
     link: '{{ repoUrl }}/issues/8'
     actions:
@@ -148,7 +148,7 @@ steps:
         title: Carrusel de bloques
         body: slider.md
   - title: Carrusel de bloques
-    description: Insira conteúdo num layout de carrossel 
+    description: Ingrese contenido en un layout de carrusel
     event: status
     link: '{{ repoUrl }}/issues/9'
     actions:
@@ -166,7 +166,7 @@ steps:
         title: Haciendo que su contenido sea responsivo
         body: responsive.md
   - title: Haciendo que su contenido sea responsivo
-    description: Use o responsive layout para adaptar seu conteúdo para diferentes dispositivos
+    description: Use responsive layout para adaptar su contenido a diferentes dispositivos
     event: status
     link: '{{ repoUrl }}/issues/10'
     actions:
@@ -184,7 +184,7 @@ steps:
         title: Página de producto
         body: pdp.md
   - title: Página de producto
-    description: Primeiros passsos para montar uma página de detalhes de produto
+    description: Primeros pasos para crear una página de detalles de producto
     event: status
     link: '{{ repoUrl }}/issues/11'
     actions:
@@ -202,7 +202,7 @@ steps:
         title: Evolucionando su página de producto (pdp)
         body: pdp2.md
   - title: Evolucionando su página de producto (pdp)
-    description: Adicionando novos blocos e deixando a página mais interativa
+    description: Agregando nuevos bloques y haciendo que la página sea más interactiva
     event: status
     link: '{{ repoUrl }}/issues/12'
     actions:
@@ -220,7 +220,7 @@ steps:
         title: Finalizando su pdp
         body: pdp3.md
   - title: Finalizando su pdp
-    description: Usando produtos relacionados e alterando propriedades
+    description: Usando productos relacionados y alterando propiedades
     event: status
     link: '{{ repoUrl }}/issues/13'
     actions:
@@ -238,7 +238,7 @@ steps:
         title: Página de búsqueda
         body: search.md
   - title: Página de búsqueda
-    description: Conhecendo os blocos de uma página de busca
+    description: Conociendo los bloques de una página de búsqueda
     event: status
     link: '{{ repoUrl }}/issues/14'
     actions:
@@ -256,7 +256,7 @@ steps:
         title: Ajustando layout de página de búsqueda 
         body: search2.md
   - title: Ajustando layout de página de búsqueda 
-    description: Adicionando linhas e colunas para melhorar o layout da busca
+    description: Agregando líneas y columnas para mejorar el layout de búsqueda
     event: status
     link: '{{ repoUrl }}/issues/15'
     actions:
@@ -274,7 +274,7 @@ steps:
         title: Estilos globales
         body: styles.md
   - title: Estilos globales
-    description: Altere classes semânticas para mudar o estilo da sua loja
+    description: Altere clases semánticas para cambiar el estilo de su tienda
     event: status
     link: '{{ repoUrl }}/issues/16'
     actions:
@@ -292,7 +292,7 @@ steps:
         title: Creando templates personalizados
         body: template.md
   - title: Creando templates personalizados
-    description: Crie uma rota e associe um template customizado
+    description: Cree una ruta y asocie un template personalizado
     event: status
     link: '{{ repoUrl }}/issues/17'
     actions:
@@ -310,7 +310,7 @@ steps:
         title: Layout de pestañas 
         body: tab-layout.md
   - title: Layout de pestañas 
-    description: Usando layout de abas na página institucional
+    description: Usando layout de pestañas en la página institucional
     event: status
     link: '{{ repoUrl }}/issues/18'
     actions:
@@ -328,7 +328,7 @@ steps:
         title: Explorando el poder de rich text
         body: richtextmarkdown.md
   - title: Explorando el poder de rich text
-    description: Usando a linguagem do Markdown de forma avançada
+    description: Usando el lenguaje de Markdown de forma avanzada 
     event: status
     link: '{{ repoUrl }}/issues/19'
     actions:
@@ -346,7 +346,7 @@ steps:
         title: Insertando un Iframe en nuestra página institucional
         body: iframe.md
   - title: Insertando un Iframe en nuestra página institucional
-    description: Exibindo um post do Instagram na sua loja
+    description: Mostrando una publicación de Instagram en su tienda
     event: status
     link: '{{ repoUrl }}/issues/20'
     actions:
@@ -364,7 +364,7 @@ steps:
         title: Construyendo un landing personalizado de búsqueda 
         body: landing.md
   - title: Construyendo un landing personalizado de búsqueda 
-    description: Definindo páginas de eventos com produtos customizados
+    description: Definiendo páginas de eventos con productos personalizados
     event: status
     link: '{{ repoUrl }}/issues/21'
     actions:
@@ -382,7 +382,7 @@ steps:
         title: Cabecera de la tienda
         body: header.md
   - title: Cabecera de la tienda
-    description: Definindo blocos de cabeçalho e alterando iconografia
+    description: Definiendo bloques de cabecera y alterando iconografía
     event: status
     link: '{{ repoUrl }}/issues/22'
     actions:
@@ -400,7 +400,7 @@ steps:
         title: Menú
         body: menu.md
   - title: Menú
-    description: Criando a navegação da sua loja 
+    description: Creando la navegación de su tienda
     event: status
     link: '{{ repoUrl }}/issues/23'
     actions:
@@ -418,7 +418,7 @@ steps:
         title: Menú avanzado con Flex Layout
         body: menu-flex.md
   - title: Menú avanzado con Flex Layout
-    description: Enriquecendo o menu com outros blocos 
+    description: Enriqueciendo el menú con otros bloques
     event: status
     link: '{{ repoUrl }}/issues/24'
     actions:
@@ -436,7 +436,7 @@ steps:
         title: Pie de Página
         body: footer.md
   - title: Pie de Página 
-    description: Definindo blocos de rodapé
+    description: Definiendo bloques de pie de página
     event: status
     link: '{{ repoUrl }}/issues/25'
     actions:
