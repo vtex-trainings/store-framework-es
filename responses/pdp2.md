@@ -55,7 +55,7 @@ Evolucione la página de producto agregando los otros 4 bloques listados anterio
 }
 ```
 
-4. Defina `shipping-simulator` debajo de la línea con el SKU Selector y el Product Quantity.
+4. Defina `shipping-simulator` debajo de la row con el SKU Selector y el Product Quantity.
 
 :information_source: Recuerde acceder a la documentación del [Breadcrumb](https://vtex.io/docs/app/vtex.breadcrumb), [Product Identifier](https://vtex.io/docs/components/product/vtex.product-identifier), [Product Quantity](https://vtex.io/docs/components/product-related/vtex.product-quantity/) y [SKU Selector](https://vtex.io/docs/components/product/vtex.store-components/sku-selector) si tiene alguna duda durante la actividad. 
 
