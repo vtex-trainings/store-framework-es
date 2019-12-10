@@ -105,7 +105,7 @@ Observe el efecto alcanzado al enlazar su app.
 3. Cambie el color del título del componente a `black` .
 4. Coloque el título en negrita (`bold`) .
 5. Cambie el color de fondo del botón durante el hover a `white` .
-6. Paralelamente al blockClass `vintage`, aplique un nuevo block class llamado `metal` en el info card `info-card#button-left` y aplique el color de `#e1e1e1` en este. 
+6. Paralelamente al blockClass `vintage`, aplique un nuevo block class llamado `metal` en el info card `info-card#button-left` y aplique el color de fondo de `#e1e1e1` en este. 
 
 ![image](https://user-images.githubusercontent.com/12139385/70145478-ead8f980-167e-11ea-8951-5d4b98e6d5c0.png)
 
